@@ -28,4 +28,5 @@ Github Actions можете удалить оба инстанса ( bastion и
 someinternalhost ) и постоянный IP адрес.
 
 ## ~~Бесполезные~~ обязательные триггеры для срабатывания автотеста
-bastion_IP = 158.160.55.189 someinternalhost_IP = 10.128.0.21
+bastion_IP = 158.160.45.93 
+someinternalhost_IP = 10.128.0.22
